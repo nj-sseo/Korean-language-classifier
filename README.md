@@ -1,2 +1,3 @@
 # Korean-language-classifier
-This is just a record
+
+## Data from https://github.com/callee2006/HangulDB
